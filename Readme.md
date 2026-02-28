@@ -1,27 +1,54 @@
+# 📂 AWS Infrastructure Images
 
-## vpc
-[!vpc](./imgs/vpc.jpeg)
+## VPC
+![VPC](./imgs/vpc.jpeg)
 
-## vpc-details
-[!vpc](./imgs/vpc-details.jpeg)
+---
 
-## subnets
-[!subnets](./imgs/subnets.jpeg)
+## VPC Details
+![VPC Details](./imgs/vpc-details.jpeg)
 
-## route tables
-[!route](./imgs/route_tables.jpeg)
+---
 
-## internet gateway
-[!igw](./imgs/gatways.jpeg)
+## Subnets
+![Subnets](./imgs/subnets.jpeg)
 
-## creating ec2
-[!ec2](./imgs/ec2.jpeg)
+---
 
-## allow port 80 in sg
-[!sg](./imgs/sg-allowport80.jpeg)
+## Route Tables
+![Route Tables](./imgs/route_tables.jpeg)
 
-## access via ssh
-[!ec2](./imgs/ssh-access.jpeg)
+---
 
-## access via browser
-[!ec2](./imgs/request%20from%20browser.jpeg)
+## Gateways
+![Gateways](./imgs/gatways.jpeg)
+
+---
+
+## EC2 Instance
+![EC2](./imgs/ec2.jpeg)
+
+---
+
+## Security Group - Allow Port 80
+![Security Group Port 80](./imgs/sg-allowport80.jpeg)
+
+---
+
+## SSH Access
+![SSH Access](./imgs/ssh-access.jpeg)
+
+---
+
+## VPC Peering
+![VPC Peering](./imgs/peering.jpeg)
+
+---
+ 
+## Request From Browser
+![Request From Browser](./imgs/request from browser.jpeg)
+
+---
+
+## Additional Diagram
+![Additional](./imgs/x.jpeg)
