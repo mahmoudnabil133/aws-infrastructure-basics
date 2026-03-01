@@ -3,7 +3,7 @@
 ## VPC
 ![VPC](./imgs/vpc.jpeg)
 
----
+--- 
 
 ## VPC Details
 ![VPC Details](./imgs/vpc-details.jpeg)
