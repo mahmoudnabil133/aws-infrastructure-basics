@@ -46,9 +46,6 @@
 ---
  
 ## Request From Browser
-![Request From Browser](./imgs/request from browser.jpeg)
+![Request From Browser](./imgs/request%20from%20browser.jpeg)
 
 ---
-
-## Additional Diagram
-![Additional](./imgs/x.jpeg)
